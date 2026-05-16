@@ -27,3 +27,9 @@ git clone [project address]
 cd python-ultimate-file-sharing
 pip install -r requirements.txt
 python ultimate_file_sharing.py
+
+
+---------------
+git clone [آدرس پروژه شما]
+cd ultimate-file-sharing
+pip install flask && python ultimate_file_sharing.py
