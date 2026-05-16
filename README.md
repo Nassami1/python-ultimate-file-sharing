@@ -13,7 +13,7 @@ A two-way file sharing application between computer and mobile with Flask
 
 1. Clone the project:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ultimate-file-sharing.git
+git clone https://github.com/Nassami1/ultimate-file-sharing.git
 cd ultimate-file-sharing
 
 # Ultimate File Sharing
