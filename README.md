@@ -1,3 +1,4 @@
+
 # Two Way File Sharing 📱💻
 
 A two-way file sharing application between computer and mobile with Flask.
@@ -16,48 +17,52 @@ A two-way file sharing application between computer and mobile with Flask.
 ```bash
 git clone https://github.com/Nassami1/ultimate-file-sharing.git
 cd ultimate-file-sharing
+```
 
-```bash
-2. Install dependencies
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 Or directly:
 
 ```bash
-
-```bash
 pip install flask
+```
 
-3. Run the application
+### 3. Run the application
+
 ```bash
-
 python ultimate_file_sharing.py
+```
 
-4. Access the app
-Computer: http://localhost:5000
+### 4. Access the app
 
-Mobile: http://[YOUR_COMPUTER_IP]:5000 (e.g., http://192.168.1.100:5000)
+- **Computer:** `http://localhost:5000`
+- **Mobile:** `http://[YOUR_COMPUTER_IP]:5000` (e.g., `http://192.168.1.100:5000`)
 
-⚠️ Note: Make sure your computer and mobile are connected to the same Wi-Fi network.
+> ⚠️ **Note:** Make sure your computer and mobile are connected to the same Wi-Fi network.
 
-Quick Install (One Command)
-bash
+## Quick Install (One Command)
+
+```bash
 git clone https://github.com/Nassami1/ultimate-file-sharing.git && cd ultimate-file-sharing && pip install flask && python ultimate_file_sharing.py
-Requirements
-Python 3.6+
+```
 
-Flask 2.3.3
+## Requirements
 
-How to Use
-Run the script on your computer
+- Python 3.6+
+- Flask 2.3.3
 
-Open the URL on your computer browser
+## How to Use
 
-Scan or type the IP address on your mobile browser
+1. Run the script on your computer
+2. Open the URL on your computer browser
+3. Scan or type the IP address on your mobile browser
+4. Start sending messages and files between devices
 
-Start sending messages and files between devices
+## Stop the Server
 
-Stop the Server
-Press Ctrl + C in the terminal.
+Press `Ctrl + C` in the terminal.
+
